@@ -1,3 +1,5 @@
+//implementation of simple Graph 
+
 import java.util.Scanner;
 
 //stack for DFS
