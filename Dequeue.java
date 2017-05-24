@@ -1,3 +1,6 @@
+//implementation of Dequeue.
+
+
 class Dequeue
 {
 	DoublyLinkList dls;
