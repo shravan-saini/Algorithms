@@ -1,3 +1,5 @@
+//implementation of simple link list
+
 import java.util.*;
 public class LinkListApp	{
 	public static void main(String[] args)
