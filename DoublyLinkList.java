@@ -1,3 +1,5 @@
+//implementation of Doubly link list
+
 class DoublyLinkList
 {
 	doublyLink first,last;
