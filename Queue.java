@@ -1,3 +1,6 @@
+//implementation of queue
+
+
 public class Queue
 {
 	private QueLinkList q;
