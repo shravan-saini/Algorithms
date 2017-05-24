@@ -1,3 +1,6 @@
+//implementation of Simple link list
+
+
 public class LinkList
 {
 	public Link first;
